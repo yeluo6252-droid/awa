@@ -1,0 +1,5 @@
+{
+  "name": "智能家居环境监测中心",
+  "description": "基于DHT22和BMP280传感器的实时环境监测仪表板，支持历史数据跟踪、图表显示和AI智能分析。",
+  "requestFramePermissions": []
+}
